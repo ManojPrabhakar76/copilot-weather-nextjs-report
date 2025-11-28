@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/copilt-weather-report', // Replace with your repository name
+  basePath: '/copilot-weather-nextjs-report',
   images: {
     unoptimized: true,
   },
